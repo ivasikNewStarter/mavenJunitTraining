@@ -1,5 +1,9 @@
-/**
- * Created by u0139221 on 3/6/2020.
- */
-public class Junittest {
+import org.junit.Test;
+
+
+public class JunitTest {
+    @Test
+    public void TestforJunit4() {
+        System.out.println("checking junit4");
+    }
 }
